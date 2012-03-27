@@ -1,0 +1,76 @@
+
+
+ LOG file opened at 03/05/12 16:53:27
+
+Field Definitions for table EXT_TABLE_CSV
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    I                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    N                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+error processing column I in row 1 for datafile h:\test\file.csv
+ORA-01722: invalid number
+error processing column I in row 2 for datafile h:\test\file.csv
+ORA-01722: invalid number
+
+
+ LOG file opened at 03/05/12 16:54:16
+
+Field Definitions for table EXT_TABLE_CSV
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    I                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    N                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+error processing column I in row 1 for datafile h:\test\file.csv
+ORA-01722: invalid number
+error processing column I in row 2 for datafile h:\test\file.csv
+ORA-01722: invalid number
+
+
+ LOG file opened at 03/05/12 16:55:32
+
+Field Definitions for table EXT_TABLE_CSV
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    I                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    N                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    M                               CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+error processing column I in row 1 for datafile h:\test\file.csv
+ORA-01722: invalid number
+error processing column I in row 2 for datafile h:\test\file.csv
+ORA-01722: invalid number
+error processing column I in row 3 for datafile h:\test\file.csv
+ORA-01722: invalid number
+error processing column I in row 4 for datafile h:\test\file.csv
+ORA-01722: invalid number
